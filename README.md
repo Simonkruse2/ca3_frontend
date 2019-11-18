@@ -34,6 +34,8 @@ Sådan her ser det f.eks. ud i git bash.
 Her skal man bare indtaste email først og så trykke enter. Dernæst er det tid til et password og så enter. 
 Det vil se sådan her ud hvis det er lykkedes 
 
+
+![text](https://cdn.discordapp.com/attachments/613362468172988418/640557766884327424/unknown.png)
 Du kan herefter tilgå dit react projekt via DITDOMÆNENAVN.surge.sh
 
 
