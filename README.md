@@ -29,6 +29,7 @@ Man skal IKKE skrive hverken .dk eller .com, da .surge.sh er et topdomæne. DITD
 Hvis du ikke har benyttet dig af Surge før, vil du blive promptet til at indtaste først en email og dernæst et password. I nogle terminaler er der IKKE noget grafisk der fortæller dig at det er det du skal. 
 
 Sådan her ser det f.eks. ud i git bash. 
+
 ![text](https://cdn.discordapp.com/attachments/613362468172988418/640557212183429141/unknown.png)
 
 Her skal man bare indtaste email først og så trykke enter. Dernæst er det tid til et password og så enter. 
@@ -36,6 +37,7 @@ Det vil se sådan her ud hvis det er lykkedes
 
 
 ![text](https://cdn.discordapp.com/attachments/613362468172988418/640557766884327424/unknown.png)
+
 Du kan herefter tilgå dit react projekt via DITDOMÆNENAVN.surge.sh
 
 
