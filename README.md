@@ -16,7 +16,7 @@ When all is ready to deploy:
 #### `npm run build`
 
 
-##Deploy via Surge
+## Deploy via Surge
 
 1)
 I et færdigt react projekt kan man vælge at deploye via surge. Det foregår alt sammen via terminalen(git bash). For at komme i gang, skal man navigere til roden af selve ens projekt. Højre klik i din projektfolder og find "git bash here". I terminalen skal du skrive "npm run build" (uden citationstegn), hvilket opretter en build mappe, lidt ligesom når man i Java får en target folder, efter man har builded. 
